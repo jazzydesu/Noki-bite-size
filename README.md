@@ -8,7 +8,7 @@ Noki is your personal sunset/sunrise quality predictor that tells you exactly ho
 ![Preview 2](frontend/public/preview-2.png)
 ![Preview 3](frontend/public/preview-3.png)
 
-kinda cool right? :3
+kinda cool right? 
 
 ## The Two Parts
 
@@ -131,13 +131,7 @@ The point is not simply to produce a number.
 
 If Noki gives you 85/100, you should be able to look at the result and understand why.
 
-Maybe there is enough high cloud to catch the light.
-
-Maybe the lower atmosphere is clear enough to leave the horizon visible.
-
-Maybe visibility is excellent.
-
-Or maybe the conditions are terrible and Noki tells you not to bother.
+Maybe there is enough high cloud to catch the light, maybe the lower atmosphere is clear enough to leave the horizon visible, maybe visibility is excellent, or maybe the conditions are terrible and Noki tells you not to bother, though you should step out anyway for some fresh air.
 
 That's the idea.
 
