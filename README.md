@@ -1,4 +1,4 @@
-# Noki — Sunset & Sunrise Quality Prediction App
+# Noki: Sunset & Sunrise Quality Prediction App
 
 Noki is your personal sunset/sunrise quality predictor that tells you exactly how beautiful your next twilight moment will be. Whether you're planning a romantic evening walk, a photography session, or just want to know if today's sunset will be worth watching, Noki gives you the real answer: a simple 0-100 score with detailed explanations of why.
 
